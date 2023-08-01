@@ -13,3 +13,4 @@ function Home() {
 }
 
 export default Home;
+export { username, city};
