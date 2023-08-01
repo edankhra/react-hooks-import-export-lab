@@ -1,5 +1,6 @@
 import React from "react";
 import {image} from "/home/ekta/Development/code/phase-2/react-hooks-import-export-lab/src/data/user.js";
+// import About from "/home/ekta/Development/code/phase-2/react-hooks-import-export-lab/src/components/About.js";
 
 function About() {
   return (
@@ -12,4 +13,3 @@ function About() {
 }
 
 export default About;
-export {image};
